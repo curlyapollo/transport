@@ -1,0 +1,12 @@
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\bin\Debug\net5.0-windows\EKRLib.deps.json
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\bin\Debug\net5.0-windows\EKRLib.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\bin\Debug\net5.0-windows\ref\EKRLib.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\bin\Debug\net5.0-windows\EKRLib.pdb
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.csproj.AssemblyReference.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.AssemblyInfoInputs.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.AssemblyInfo.cs
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\ref\EKRLib.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer6\EKRLib\obj\Debug\net5.0-windows\EKRLib.pdb

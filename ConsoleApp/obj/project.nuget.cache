@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6zJrYMDzamZbKeVQHjgMB4YwHagGfjEqFP2sxy6eSuVYlrjb/1GTj1ORr6r1WqmPrBCll3HP3FurNDxMZKo6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79653\\RiderProjects\\MyPeers\\peer6\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79653\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
